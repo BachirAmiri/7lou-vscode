@@ -1,7 +1,7 @@
 {
     "name": "7lou-vscode",
-    "displayName": "7lou vscode",
-    "description": "A sweet pastel theme",
+    "displayName": "7lou theme",
+    "description": "A sweet, minimal, pastel theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
