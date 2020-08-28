@@ -10,6 +10,14 @@
 
 ![demo](https://raw.githubusercontent.com/bachiramiri/7lou-vscode/master/images/7lou_demo.png)
 
+## Installation via VS Code
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `7lou`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **7lou**
+
 ## Manual Installation
 
 Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)

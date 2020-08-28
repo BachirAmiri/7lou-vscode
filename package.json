@@ -1,13 +1,29 @@
 {
     "name": "7lou-vscode",
-    "displayName": "7lou theme",
+    "displayName": "7lou Theme",
     "description": "A sweet, minimal, pastel theme",
     "version": "0.1.0",
+    "icon": "images/7lou_logo.png",
+    "author": {
+        "name": "Bachir AMIRI",
+        "email": "bachir.amiri@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BachirAmiri/7lou-vscode"
+    },
+    "homepage": "https://github.com/BachirAmiri/7lou-vscode/blob/master/README.md",
     "engines": {
         "vscode": "^1.48.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+      "Themes",
+      "Dark Theme",
+      "color-theme",
+      "7lou"
     ],
     "contributes": {
         "themes": [
