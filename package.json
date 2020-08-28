@@ -4,6 +4,7 @@
     "description": "A sweet, minimal, pastel theme",
     "version": "0.1.0",
     "icon": "images/7lou_logo.png",
+    "publisher": "bachiramiri",
     "author": {
         "name": "Bachir AMIRI",
         "email": "bachir.amiri@gmail.com"
@@ -14,7 +15,7 @@
     },
     "homepage": "https://github.com/BachirAmiri/7lou-vscode/blob/master/README.md",
     "engines": {
-        "vscode": "^1.48.0"
+        "vscode": "^1.42.0"
     },
     "categories": [
         "Themes"
