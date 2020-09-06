@@ -20,7 +20,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/BachirAmiri/7lou-vscode/blob/master/vsc-extension-quickstart.md)
 
 ## Brackets 
 
