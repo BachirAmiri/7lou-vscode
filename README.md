@@ -7,6 +7,17 @@
 <p align="center">
   A sweet, minimal, pastel theme for <a href="">VS Code</a>.
 </p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=bachiramiri.7lou-vscode">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/bachiramiri.7lou-vscode.svg?color=6EC1D6" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=bachiramiri.7lou-vscode">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/bachiramiri.7lou-vscode.svg?color=6EC1D6" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=bachiramiri.7lou-vscode">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/bachiramiri.7lou-vscode.svg?color=6EC1D6" />
+  </a>
+</p>
 
 ![demo](https://raw.githubusercontent.com/bachiramiri/7lou-vscode/master/images/7lou_demo.png)
 
@@ -39,3 +50,8 @@ The main colors used :
 | ![#79c07b](https://via.placeholder.com/10/79c07b?text=+) `#79c07b` | ![#FFB86C](https://via.placeholder.com/10/FFB86C?text=+) `#FFB86C` |
 | ![#6EC1D6](https://via.placeholder.com/10/6EC1D6?text=+) `#6EC1D6` | ![#f8b1c8](https://via.placeholder.com/10/f8b1c8?text=+) `#f8b1c8` |
 | ![#9dcaf8](https://via.placeholder.com/10/9dcaf8?text=+) `#9dcaf8` | ![#F692B2](https://via.placeholder.com/10/F692B2?text=+) `#F692B2` |
+
+
+## Badge 
+
+Description badges are made using : https://github.com/cssho/VSMarketplaceBadge 
